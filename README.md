@@ -1,2 +1,2 @@
 Cheers!
-This is a personal project, feel free to fork or improve upon the repo yourself!
+This is a personal project, feel free to fork or improve upon the code yourself!
